@@ -15,15 +15,7 @@ public class Hello
        system.out.println("me-you");
    }
     
-   public void m3()
-   {
-       syste.out.println("m34");
-   }
-    
-     public void m4()
-   {
-       syste.out.println("m341");
-   }
+ 
 
  
   
