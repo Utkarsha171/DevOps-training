@@ -19,6 +19,11 @@ public class Hello
    {
        syste.out.println("m34");
    }
+    
+     public void m4()
+   {
+       syste.out.println("m341");
+   }
 
  
   
