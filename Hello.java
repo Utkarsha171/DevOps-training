@@ -15,5 +15,10 @@ public class Hello
        system.out.println("hi");
    }
 
+   public void hello()
+   {
+       System.out.println("Hiiiii");
+   }
+
 }
 
