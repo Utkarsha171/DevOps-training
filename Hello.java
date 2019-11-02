@@ -9,5 +9,10 @@ public class Hello
        System.out.println("Hello");
    }
 
+   public void hello()
+   {
+       system.out.println("hi");
+   }
+
 }
 
