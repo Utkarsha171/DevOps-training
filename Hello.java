@@ -15,12 +15,7 @@ public class Hello
        system.out.println("me");
    }
     
-   public void m3()
-   {
-       syste.out.println("m34");
-   }
-
- 
+   
   
 
 
