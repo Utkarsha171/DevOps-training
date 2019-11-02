@@ -10,5 +10,10 @@ public class Hello
        System.out.println("hi");
    } 
 
+   public void hello()
+   {
+       system.out.println("hi");
+   }
+
 }
 
