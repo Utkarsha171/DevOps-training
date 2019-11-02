@@ -10,6 +10,11 @@ public class Hello
        System.out.println("hi");
    } 
 
+   public void me()
+   {
+       system.out.println("me");
+   }
+
  
   
 
