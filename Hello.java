@@ -4,10 +4,11 @@ public class Hello
     String name="utkarsha";
     System.out.println("Hello"+name);
 
-   public method hi()
+  
+   public void m2()
    {
-       System.out.println("Hello");
-   }
+       System.out.println("hi");
+   } 
 
 }
 
